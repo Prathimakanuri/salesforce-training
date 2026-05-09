@@ -139,7 +139,6 @@ Students can submit admission applications with their personal and academic deta
 
 ## 13. Screenshots
 
-Add screenshots of Trailhead module completion below.
 
 ![Trailhead Screenshot 1](screenshots/platform_basics.png)
 
