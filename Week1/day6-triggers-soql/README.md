@@ -11,16 +11,6 @@ The main topics covered today are SOQL, SOSL, DML operations, querying data, Ape
 
 ---
 
-## Screenshots
-
-Add screenshots of completed Trailhead modules or learning progress here.
-
-Example:
-
-![Day 6 Trailhead Screenshot](screenshots/day6-trailhead.png)
-
----
-
 ## 1. What is SOQL?
 
 SOQL stands for Salesforce Object Query Language.
