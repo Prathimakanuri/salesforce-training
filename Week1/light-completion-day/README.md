@@ -76,12 +76,7 @@ How are platform events different from normal notifications in Salesforce, and w
 
 ---
 
-## Screenshot of Trailhead Progress
 
-![Trailhead Progress](search_solution.png)
-![Trailhead Progress](command_line_interface.png)
-
----
 
 ## Outcome of the Day
 
